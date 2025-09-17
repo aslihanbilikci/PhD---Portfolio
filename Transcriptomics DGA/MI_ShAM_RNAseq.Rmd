@@ -179,10 +179,6 @@ fg |> arrange(padj) |> head()
 
 # 10. Reporting & Reproducibility
 
-- Save key tables as CSV (DE results, HVGs).
-- Save figures as PNG/SVG.
-- Record session info.
-
 ```{r export}
 dir.create("results", showWarnings = FALSE)
 # Example exports:
@@ -191,6 +187,10 @@ dir.create("results", showWarnings = FALSE)
 ```
 
 # 11. References
+## References
 
-Cite key tools and methods (Ensembl/biomaRt, tximport, DESeq2, fgsea, t-SNE/UMAP, etc.). Add them to `references.bib` and set an appropriate CSL file.
+Sysmedicine. (2022). *KCLModule2_2022: Metagenomics statistics 2022* [Computer software]. GitHub.  
+https://github.com/sysmedicine/KCLModule2_2022/tree/main/Metagenomics_Statistics_2022
+
+
 
