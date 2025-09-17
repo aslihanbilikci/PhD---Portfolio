@@ -1,4 +1,4 @@
-# 🧬 MI vs Sham RNA-seq Analysis
+#  MI vs Sham RNA-seq Analysis
 
 ## Overview
 This repository contains the full analysis pipeline for RNA-seq data comparing **myocardial infarction (MI)** and **sham control** samples in mouse. The project integrates raw quantification, quality control, normalization, **differential expression analysis (DEA)**, and **functional enrichment** (KEGG/GSEA).  
