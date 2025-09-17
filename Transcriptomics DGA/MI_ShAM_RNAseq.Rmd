@@ -20,11 +20,6 @@ set.seed(42)
  sessionInfo()
 ```
 
-# 1. Study Context & Design
-
-- Briefly describe biological question (MI vs Sham; 1d vs 3d).
-- Define hypotheses and expected contrasts.
-- Include inclusion/exclusion criteria and QC plan.
 
 # 2. Installation and Loading
 
@@ -198,3 +193,4 @@ dir.create("results", showWarnings = FALSE)
 # 11. References
 
 Cite key tools and methods (Ensembl/biomaRt, tximport, DESeq2, fgsea, t-SNE/UMAP, etc.). Add them to `references.bib` and set an appropriate CSL file.
+
